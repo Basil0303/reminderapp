@@ -1,0 +1,40 @@
+
+h2{
+    color: white;
+    padding: 0;
+    margin: 0;
+}
+.reg{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 85%;
+    
+
+}
+button{
+   width: 84px;
+   height: 48px;
+   border-radius: 10px;
+}
+h1{
+    color: white;
+    margin-top: 20%;
+    margin-left: 4%;
+}
+h3{
+    margin-left: 67px;
+    font-size: 43px;
+
+}
+
+section img{
+    position:absolute;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    min-width: 100%; 
+    min-height: 100%;
+    opacity: 90%;
+    object-fit: cover;
+
+}
